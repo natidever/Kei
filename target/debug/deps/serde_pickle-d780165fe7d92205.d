@@ -1,0 +1,11 @@
+/home/natnael/projects/rust_projects/kei/target/debug/deps/libserde_pickle-d780165fe7d92205.rmeta: /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/lib.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/consts.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/de.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/error.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/ser.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value_impls.rs
+
+/home/natnael/projects/rust_projects/kei/target/debug/deps/serde_pickle-d780165fe7d92205.d: /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/lib.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/consts.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/de.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/error.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/ser.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value_impls.rs
+
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/lib.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/consts.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/de.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/error.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/ser.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-pickle-1.2.0/src/value_impls.rs:

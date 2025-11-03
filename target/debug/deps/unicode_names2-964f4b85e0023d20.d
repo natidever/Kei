@@ -1,0 +1,11 @@
+/home/natnael/projects/rust_projects/kei/target/debug/deps/libunicode_names2-964f4b85e0023d20.rmeta: /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/lib.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated_phf.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/jamo.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/iter_str.rs
+
+/home/natnael/projects/rust_projects/kei/target/debug/deps/libunicode_names2-964f4b85e0023d20.rlib: /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/lib.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated_phf.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/jamo.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/iter_str.rs
+
+/home/natnael/projects/rust_projects/kei/target/debug/deps/unicode_names2-964f4b85e0023d20.d: /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/lib.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated_phf.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/jamo.rs /home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/iter_str.rs
+
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/lib.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/generated_phf.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/jamo.rs:
+/home/natnael/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode_names2-0.2.2/src/iter_str.rs:
